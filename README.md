@@ -11,6 +11,7 @@ This is the pytorch implementation of our paper
 
 ## RecFormer-based
 Run the RecFormer-based PPLR on the Games dataset:
+- download pretrained checkpoints into the ./pretrain_ckpt: [RecformerForSeqRec](https://drive.google.com/file/d/1BEboY3NxAUOBe6YwYZ_RsQ4BR6IIbl0-/view?usp=sharing)
 - Assign os.environ['LD_LIBRARY_PATH'] in fintune.py
 ```bash
 cd RecFormer_PPLR
