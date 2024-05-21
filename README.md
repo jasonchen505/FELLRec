@@ -1,4 +1,4 @@
-# A Privacy-Preserving Federated Framework for LLM-based Recommendation
+# A Federated Framework for LLM-based Recommendation
 This is the pytorch implementation of our paper
 > A Federated Framework for LLM-based Recommendation
 
