@@ -20,7 +20,7 @@ bash fintune.sh
 
 ## BIGRec-based
 ### Training
-Run the RecFormer-based FELLRec on the Games dataset:
+Run the BIGRec-based FELLRec on the Games dataset:
 - Assign os.environ['LD_LIBRARY_PATH'] in fintune.py
 - Assign LLaMA base model path in train.sh
 ```bash
